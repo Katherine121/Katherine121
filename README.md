@@ -2,5 +2,5 @@
 
 
 - 🔭 I’m currently working on ZJU-VIPA
-- 🌱 I’m currently learning DL, ML, 
+- 🌱 I’m currently learning DL, ML
 - 📫 How to reach me: 3108704560@qq.com
