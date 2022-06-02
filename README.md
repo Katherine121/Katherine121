@@ -5,7 +5,7 @@
 
 I often use ![Java](https://img.shields.io/badge/-Java-3f4441?style=plastic&logo=Java), ![C](https://img.shields.io/badge/-C-8fcfd1?style=plastic&logo=C), ![C++](https://img.shields.io/badge/-C%2B%2B-8fcfd1?style=plastic&logo=C%2B%2B), ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 
-My research interests include DL, ML etc.
+My research interests include DL, CV etc.
 
 Currently I am a first-year graduate student in ZJU.
 
