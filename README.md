@@ -1,4 +1,4 @@
-### [![Welcome to Kathy's GitHub]
+### Welcome to Kathy's GitHub
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Katherine121.Katherine121.README)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <br>
 ![](https://github-readme-stats.vercel.app/api?username=Katherine121&show_icons=true&theme=tokyonight&count_private=true) &emsp;&emsp; <br>
